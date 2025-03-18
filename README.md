@@ -1,5 +1,7 @@
-# Search_Neutral_Bits_for_Simon
-为Simon密码的大分组成员搜索高轮数差分传播的中性比特
+# 智能化密钥恢复攻击的组件生成或搜索代码
 
-# Search_Differential_Trails_for_Simon
+## Search_Neutral_Bits_for_Simon
+为Simon密码的大分组成员搜索高轮数差分传播的中性比特，多线程分批次加速搜索
+
+## Search_Differential_Trails_for_Simon
 为Simon密码的大分组成员搜索指定的差分路径，sage环境下运行

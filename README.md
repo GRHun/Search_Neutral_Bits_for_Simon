@@ -1,2 +1,5 @@
 # Search_Neutral_Bits_for_Simon
-为Simon的大分组成员搜索高轮数差分传播的中性比特
+为Simon密码的大分组成员搜索高轮数差分传播的中性比特
+
+# Search_Differential_Trails_for_Simon
+为Simon密码的大分组成员搜索指定的差分路径，sage环境下运行
